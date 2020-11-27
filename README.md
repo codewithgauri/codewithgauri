@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
 
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C4E16AQEph-xGrMx8PA/profile-displaybackgroundimage-shrink_350_1400/0?e=1611792000&v=beta&t=v4zwSlwhATv3uxGC937UfR8xVd7-jQcZMTji_wMfnu4)
 <p align="center">
+
+<h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
+<h3 align="center">A passionate Android Developer from India</h3>
+
+
 - 🔭 I’m currently working on [appointment_with_company](https://github.com/codewithgauri/appointment_with_company)
 
 - 🌱 I’m currently learning **Android, JS, Flutter**

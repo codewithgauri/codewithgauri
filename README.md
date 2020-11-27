@@ -1,5 +1,3 @@
-codewithgauri/ayushi7rawat
-
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 

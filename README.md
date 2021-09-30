@@ -30,7 +30,7 @@ if '__repo__' == '__helpful__':
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube"></p>
 
 <!-- Programmer gif -->
-<img align="right" src="./assets/img/programmer.gif" alt="gif">
+<img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
 <!-- Language and tools badge-->
 ## 🛠️ **Languages & Tools:**

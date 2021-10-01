@@ -22,11 +22,10 @@ if '__repo__' == '__helpful__':
 ```
 
 <!--Social Channel-->
-<p align="center"><a href="http://codeperfectplus.herokuapp.com/"><img src="https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
-<a href="https://www.linkedin.com/in/deepak-raj-35887386/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
-<a href="http://dev.to/codeperfectplus"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
-<a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" alt="HackerRank"></a>
-<a href="https://discord.gg/JfbK3bS"><img src="https://img.shields.io/discord/591914197219016707.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a>
+<a href="https://www.linkedin.com/in/gaurav-pandey-a5b884131/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<a href="https://dev.to/codewithgauri"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
+
+
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube"></p>
 
 <!-- Programmer gif -->
@@ -47,7 +46,10 @@ if '__repo__' == '__helpful__':
 <p><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&amp;style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heorku">
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white" alt="Jupyter">
 <img src="https://img.shields.io/badge/Colab%20-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Colab"></p>
-<p><img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">
+<p><img src="https://img.shields.io/badge/ht
+    
+    
+    %20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="BootStrap">
 <img src="https://img.shields.io/badge/django%20-%20092E20.svg?&amp;style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django">

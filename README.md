@@ -5,7 +5,7 @@ from life import Creativity
 
 class Life(Creativity):
     def __init_life__(self):
-        self.current_job_title = "Full Stack Developer"
+        self.current_job_title = "___"
         self.open_for_opportunity = True
 
     def current_projects(self):

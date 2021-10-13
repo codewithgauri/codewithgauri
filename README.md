@@ -36,17 +36,7 @@ if '__repo__' == '__helpful__':
 
 <p><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
 
-    
-<img src="https://img.shields.io/badge/css%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="BootStrap">
-<img src="https://img.shields.io/badge/django%20-%20092E20.svg?&amp;style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/flask%20-%23092E20.svg?&amp;style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="flask">
-<img src="https://img.shields.io/badge/FastAPI%20-%2307405e.svg?&amp;style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"></p>
-<p><img src="https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&amp;logo=visual-studio-code" alt="VSCode">
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&amp;style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></p>
-<p><img src="https://img.shields.io/badge/-linux-772953?style=for-the-badge&amp;logo=linux" alt="Linux">
+
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
 
 <!-- Github Stats -->
